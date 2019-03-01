@@ -1,0 +1,11 @@
+### Module positions - created on 01/03/2019 11:01:14 ###
+### Printed by Pcbnew version kicad (5.0.2)-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                       PosX       PosY       Rot  Side
+SW1       Power     SW_SPDT_CK-JS102011SAQN   -59.0350    50.8100    0.0000  bottom
+SW2       RESET     SW_SPST_B3SL-1022P        -29.7100    50.9900  180.0000  bottom
+SW3       LEFT      SW_SPST_B3SL-1022P        -33.9800     4.0100    0.0000  bottom
+SW4       ENTER     SW_SPST_B3SL-1022P        -43.9800     4.0100    0.0000  bottom
+SW5       RIGHT     SW_SPST_B3SL-1022P        -53.9800     4.0100    0.0000  bottom
+## End
