@@ -1,39 +1,40 @@
-### Module positions - created on 26/02/2019 11:43:46 ###
+### Module positions - created on 02/04/2019 10:37:37 ###
 ### Printed by Pcbnew version kicad (5.0.2)-1
 ## Unit = mm, Angle = deg.
 ## Side : top
-# Ref     Val             Package                                             PosX       PosY       Rot  Side
-C1        1uF             C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      64.8700    44.6700  180.0000  top
-C2        1uF             C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      63.5000    36.2100  180.0000  top
-C3        100nF           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      55.4000    36.2200    0.0000  top
-C4        100nF           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      53.1900    22.3100  135.0000  top
-C5        100nF           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      51.4100    32.4000   45.0000  top
-C6        100nF           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      50.5000    19.2800    0.0000  top
-C7        18pF            C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      63.6500    18.4700   90.0000  top
-C8        18pF            C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      71.5000    18.4700  270.0000  top
-C9        100nF           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      63.5000    38.1100  180.0000  top
-C10       100nF           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      63.9400    24.3800  225.0000  top
-C11       100nF           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      61.9250    34.3100    0.0000  top
-D1        GREEN           LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    69.2400    42.4000  270.0000  top
-D2        LED_RGB         LED_RGB_1210                                     68.5600    33.0300  180.0000  top
-J1        USB_B_Micro     USB_Micro-B_Molex_47346-0001                     69.4490    52.3340  180.0000  top
-J10       SD_Card         microSD_HC_Hirose_DM3AT-SF-PEJM5                 53.7900    46.0500  180.0000  top
-Q1        NTR4003         SOT-23                                           56.5300    18.1200  180.0000  top
-R1        1K5             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      71.2800    42.4300  270.0000  top
-R2        33K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      64.8600    46.6200  180.0000  top
-R3        33K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      64.8600    48.5600    0.0000  top
-R4        82R             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      67.6300    35.7600  180.0000  top
-R5        82R             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      73.0050    33.0300  270.0000  top
-R6        82R             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      67.5800    30.2600  180.0000  top
-R7        33K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      49.0300    13.8100  180.0000  top
-R8        4K7             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      67.0450    13.8530  180.0000  top
-R9        33K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      59.6400    18.2200   90.0000  top
-R10       4K7             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      62.4550    13.8350    0.0000  top
-R14       82R             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      50.0300    17.2300    0.0000  top
-R15       1K5             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      70.4400    46.8300    0.0000  top
-R16       33K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      53.6800    13.7600  180.0000  top
-R17       33K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      57.7300    13.7600  180.0000  top
-U1        STM32F103C8Tx   LQFP-48_7x7mm_P0.5mm                             57.3500    28.2800  135.0000  top
-U2        MIC5504-3.3YM5  SOT-23-5_HandSoldering                           64.0500    41.7300  180.0000  top
-Y1        8MHz            Crystal_SMD_5032-4Pin_5.0x3.2mm                  67.6000    18.4700    0.0000  top
+# Ref     Val             Package                                                     PosX       PosY       Rot  Side
+C1        1uF             C_0805_2012Metric_Pad1.15x1.40mm_HandSolder              64.8700    44.6700  180.0000  top
+C2        1uF             C_0805_2012Metric_Pad1.15x1.40mm_HandSolder              63.5000    36.2100  180.0000  top
+C3        100nF           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder              55.4000    36.2200    0.0000  top
+C4        100nF           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder              53.1900    22.3100  135.0000  top
+C5        100nF           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder              51.4100    32.4000   45.0000  top
+C6        100nF           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder              49.7200    22.2300  270.0000  top
+C7        18pF            C_0805_2012Metric_Pad1.15x1.40mm_HandSolder              63.3600    16.9300  180.0000  top
+C8        18pF            C_0805_2012Metric_Pad1.15x1.40mm_HandSolder              70.9300    16.9200    0.0000  top
+C9        100nF           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder              63.5000    38.1100  180.0000  top
+C10       100nF           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder              63.9400    24.3800  225.0000  top
+C11       100nF           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder              61.9250    34.3100    0.0000  top
+D1        GREEN           LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder            69.2400    42.4000  270.0000  top
+D2        LED_RGB         LED_RGB_1210                                             68.5600    33.0300  180.0000  top
+J1        USB_B_Micro     USB_Micro-B_Molex_47346-0001                             69.4490    52.3340  180.0000  top
+J10       SD_Card         microSD_HC_Hirose_DM3AT-SF-PEJM5                         53.7900    46.0500  180.0000  top
+Q1        BC817DS         SOT-23-6_Handsoldering                                   54.8700    18.0400  180.0000  top
+R1        1K5             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder              71.2800    42.4300  270.0000  top
+R2        33K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder              64.8600    46.6200  180.0000  top
+R3        33K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder              64.8600    48.5600    0.0000  top
+R4        22R             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder              67.6300    35.7600  180.0000  top
+R5        120R            R_0805_2012Metric_Pad1.15x1.40mm_HandSolder              73.0050    33.0300  270.0000  top
+R6        16R             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder              67.5800    30.2600  180.0000  top
+R7        33K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder              49.0300    13.8100  180.0000  top
+R8        4K7             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder              67.0450    13.8530  180.0000  top
+R9        1K5             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder              59.6500    20.0800    0.0000  top
+R10       4K7             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder              62.4550    13.8350    0.0000  top
+R11       33K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder              71.9200    23.7200  270.0000  top
+R14       6R8             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder              59.6500    16.9400  180.0000  top
+R15       1K5             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder              70.4400    46.8300    0.0000  top
+R16       33K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder              53.6800    13.7600  180.0000  top
+R17       33K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder              57.7300    13.7600  180.0000  top
+U1        STM32F103C8Tx   LQFP-48_7x7mm_P0.5mm                                     57.3500    28.2800  135.0000  top
+U2        MIC5504-3.3YM5  SOT-23-5_HandSoldering                                   64.0500    41.7300  180.0000  top
+Y1        8MHz            Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering    67.1400    19.7800    0.0000  top
 ## End
