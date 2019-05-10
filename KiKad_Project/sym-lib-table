@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name PCB_Card)(type Legacy)(uri E:/Recruitment/PCB_Business_Card/PCB_Card/PCB_Card.lib)(options "")(descr ""))
-  (lib (name PCB_Card-rescue)(type Legacy)(uri ${KIPRJMOD}/PCB_Card-rescue.lib)(options "")(descr ""))
-)
