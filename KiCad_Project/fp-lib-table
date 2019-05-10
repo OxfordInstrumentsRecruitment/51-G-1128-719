@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name PCB_Graphics)(type KiCad)(uri ${KIPRJMOD}/PCB_Graphics)(options "")(descr ""))
+  (lib (name Alex_Parts)(type KiCad)(uri /home/alex/Documents/KiCad_Footprints/Alex_Parts.pretty)(options "")(descr ""))
+)

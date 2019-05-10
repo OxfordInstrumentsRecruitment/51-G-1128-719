@@ -1,0 +1,22 @@
+Missing ".ends" statement in file "E:\Personal\Latimer\Star_Lights\Simulations\Current_Sink\MMBT4401.txt"
+Circuit: * E:\Recruitment\PCB_Business_Card\Simulations\LED_Driver\LED_Driver.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Mar 13 08:13:06 2019
+Total elapsed time: 13.430 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 5057562
+traniter = 5057549
+tranpoints = 2193002
+accept = 1798033
+rejected = 394969
+matrix size = 14
+fillins = 4
+solver = Normal
+Matrix Compiler1: 1.12 KB object code size  0.4/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.2/0.2
+

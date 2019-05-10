@@ -1,0 +1,226 @@
+solid Screen_Alignment_Jig
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex -3.5000000000000004 -3.9999999999999996 4.5
+    vertex 0.0 0.0 4.5
+    vertex -3.499999999999999 30.0 4.5
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 0.0 0.0 4.5
+    vertex -3.5000000000000004 -3.9999999999999996 4.5
+    vertex 30.0 -4.0 4.5
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 0.0 0.0 4.5
+    vertex 30.0 -4.0 4.5
+    vertex 30.0 1.5030953421127943e-15 4.5
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 0.0 30.0 4.5
+    vertex -3.499999999999999 30.0 4.5
+    vertex 0.0 0.0 4.5
+  endloop
+endfacet
+facet normal -1.0 4.147009533158673e-17 0.0
+  outer loop
+    vertex -3.499999999999999 30.0 4.5
+    vertex -3.5000000000000004 -3.9999999999999996 0.0
+    vertex -3.5000000000000004 -3.9999999999999996 4.5
+  endloop
+endfacet
+facet normal -1.0 4.147009533158673e-17 0.0
+  outer loop
+    vertex -3.5000000000000004 -3.9999999999999996 0.0
+    vertex -3.499999999999999 30.0 4.5
+    vertex -3.499999999999999 30.0 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex -3.499999999999999 30.0 0.0
+    vertex 0.0 30.0 1.5
+    vertex 3.499999999999999 30.0 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 0.0 30.0 1.5
+    vertex -3.499999999999999 30.0 0.0
+    vertex -3.499999999999999 30.0 4.5
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 0.0 30.0 1.5
+    vertex -3.499999999999999 30.0 4.5
+    vertex 0.0 30.0 4.5
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 3.499999999999999 30.0 1.5
+    vertex 3.499999999999999 30.0 0.0
+    vertex 0.0 30.0 1.5
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 0.0 0.0 1.5
+    vertex 3.499999999999999 3.999999999999999 1.5
+    vertex 0.0 30.0 1.5
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 3.499999999999999 3.999999999999999 1.5
+    vertex 0.0 0.0 1.5
+    vertex 30.0 1.5030953421127943e-15 1.5
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 3.499999999999999 3.999999999999999 1.5
+    vertex 30.0 1.5030953421127943e-15 1.5
+    vertex 30.0 4.0 1.5
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 3.499999999999999 30.0 1.5
+    vertex 0.0 30.0 1.5
+    vertex 3.499999999999999 3.999999999999999 1.5
+  endloop
+endfacet
+facet normal -5.010317807042647e-17 1.0 0.0
+  outer loop
+    vertex 0.0 0.0 4.5
+    vertex 30.0 1.5030953421127943e-15 1.5
+    vertex 0.0 0.0 1.5
+  endloop
+endfacet
+facet normal -5.010317807042647e-17 1.0 0.0
+  outer loop
+    vertex 30.0 1.5030953421127943e-15 1.5
+    vertex 0.0 0.0 4.5
+    vertex 30.0 1.5030953421127943e-15 4.5
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 0.0 30.0 1.5
+    vertex 0.0 0.0 4.5
+    vertex 0.0 0.0 1.5
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 4.5
+    vertex 0.0 30.0 1.5
+    vertex 0.0 30.0 4.5
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 3.499999999999999 30.0 0.0
+    vertex 3.499999999999999 3.999999999999999 1.5
+    vertex 3.499999999999999 3.999999999999999 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 3.499999999999999 3.999999999999999 1.5
+    vertex 3.499999999999999 30.0 0.0
+    vertex 3.499999999999999 30.0 1.5
+  endloop
+endfacet
+facet normal -5.3206914765054666e-17 1.0 0.0
+  outer loop
+    vertex 3.499999999999999 3.999999999999999 1.5
+    vertex 30.0 4.0 0.0
+    vertex 3.499999999999999 3.999999999999999 0.0
+  endloop
+endfacet
+facet normal -5.3206914765054666e-17 1.0 0.0
+  outer loop
+    vertex 30.0 4.0 0.0
+    vertex 3.499999999999999 3.999999999999999 1.5
+    vertex 30.0 4.0 1.5
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 30.0 -4.0 0.0
+    vertex 30.0 1.5030953421127943e-15 1.5
+    vertex 30.0 -4.0 4.5
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 30.0 1.5030953421127943e-15 1.5
+    vertex 30.0 -4.0 0.0
+    vertex 30.0 4.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 30.0 1.5030953421127943e-15 1.5
+    vertex 30.0 4.0 0.0
+    vertex 30.0 4.0 1.5
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 30.0 1.5030953421127943e-15 4.5
+    vertex 30.0 -4.0 4.5
+    vertex 30.0 1.5030953421127943e-15 1.5
+  endloop
+endfacet
+facet normal -2.1044525989163414e-17 -1.0 -0.0
+  outer loop
+    vertex 30.0 -4.0 4.5
+    vertex -3.5000000000000004 -3.9999999999999996 0.0
+    vertex 30.0 -4.0 0.0
+  endloop
+endfacet
+facet normal -2.1044525989163414e-17 -1.0 -0.0
+  outer loop
+    vertex -3.5000000000000004 -3.9999999999999996 0.0
+    vertex 30.0 -4.0 4.5
+    vertex -3.5000000000000004 -3.9999999999999996 4.5
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex -3.5000000000000004 -3.9999999999999996 0.0
+    vertex 3.499999999999999 3.999999999999999 0.0
+    vertex 30.0 -4.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 3.499999999999999 3.999999999999999 0.0
+    vertex -3.5000000000000004 -3.9999999999999996 0.0
+    vertex -3.499999999999999 30.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 3.499999999999999 3.999999999999999 0.0
+    vertex -3.499999999999999 30.0 0.0
+    vertex 3.499999999999999 30.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 30.0 -4.0 0.0
+    vertex 3.499999999999999 3.999999999999999 0.0
+    vertex 30.0 4.0 0.0
+  endloop
+endfacet
+endsolid Screen_Alignment_Jig
